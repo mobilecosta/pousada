@@ -1,0 +1,69 @@
+
+Proposta de Orçamento para Desenvolvimento de Aplicativo para Administração de Pousada
+
+Detalhes Técnicos:
+
+Desenvolvimento Backend:
+
+Utilização de PHP para o desenvolvimento do backend.
+Implementação de uma API RESTful para interação entre o frontend e o backend.
+Configuração de um banco de dados MySQL para armazenar informações relevantes.
+
+Desenvolvimento Frontend (Flutter - Dart):
+Utilização do framework Flutter para suportar ambas as plataformas, Android e iOS.
+Criação de wireframes e design intuitivo para proporcionar uma experiência de usuário eficiente.
+
+Funcionalidades do Aplicativo do Administrador:
+
+Verificação de Ocupação:
+
+Tela que exibe a ocupação dos quartos.
+
+Alerta de Pedido Solicitado:
+
+Notificações push para novos pedidos.
+
+Alertas de Entradas e Saídas:
+
+Sistema automático de alertas para entradas e saídas com base nas reservas.
+
+Fechamento do Quarto:
+
+Tela para fechamento do quarto, exibindo detalhes da hospedagem e pedidos.
+
+Funcionalidades do Aplicativo do Hóspede:
+
+Marcação do Quarto e Pedido:
+
+Recurso para marcar o quarto, fazer pedidos e acompanhar datas de entrada e saída.
+
+Alertas de Pedido Pronto e Check-out:
+
+Notificações para pedidos prontos e check-out na manhã da saída.
+
+Pagamento e Avaliação:
+
+Integração para finalização do pagamento e opção para avaliação e sugestões.
+
+Fase de Testes:
+
+Testes unitários e de integração.
+Testes de usabilidade com feedback contínuo.
+
+--------------------------------------------------------------------------------------------------------
+
+Criação de App Android + iOs + API: R$ 7.000,00, podendo ser divido em etapas conforme o desenvolvimento
+
+Publicação nas lojas Google Play e App Store com custos por conta do cliente
+
+Apple Store são $99 dólares anual
+Aluguel de MAC pra publicação do APP, por volta de $15 dólares
+Play Store são $25 dólares uma única vez
+Necessário hospedagem, preços por volta de R$ 40,00 mensais
+E um domínio ou ip fixo. Domínio .com.br são R$ 40,00 anual
+
+Prazo de entrega estimado entre 45 dias e 60 dias
+
+Observação:
+
+Este é um orçamento inicial, e ajustes podem ser feitos conforme requisitos necessários
